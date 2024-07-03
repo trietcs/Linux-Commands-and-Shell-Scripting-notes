@@ -30,3 +30,20 @@ In the 1960s, the **Unix OS** was rewritten in **C**, distinguishing itself from
   > It supports multitasking, running multiple jobs and applications at the same time 
 * **Portability**
   > Linux has been ported to run on many different types of devices and hardware platforms from desktops to servers to appliances.
+
+### Linux use cases today:
+* **Android**
+  > It's used in billions of smartphones around the world via the Android OS, which uses a Linux-based kernel.
+* **Supercomputers**
+  > Linux is also widely used in supercomputers where many Linux-powered servers are clustered together for high-performkance computing applications.
+* **Data centers and cloud services**
+  > Enterprise and cloud data centers also use Linux over millions of servers running all kinds of applications, web servers, databases, and so on.
+* **PCs**
+  > Versions of Linux can be easily used as your PC's operating system. Many people install Linux today as a learning experience or as their daily driver.
+
+## Overwiew
+> [!NOTE]
+> Unix is a family of operating systems dating from the 1960s.
+> Linux was originally developed in the 1980s as a free, open-source alternative to Unix.
+> Linux is multi-user, portable, and supports multitasking.
+> Linux is widely used today in mobile devices, supercomputers, data centers, and cloud servers.
