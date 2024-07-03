@@ -17,3 +17,10 @@ Each Linux distro has some of the following key differences:
   > Each distro provides differing levels of support such as _Community_ versus enterprise, _Long-term support (LTS)_ versus rolling release.
 
 ## Linux distros: Bebian
+**Debian** is one of the _earliest-rooted distros_, with the first release in 1993 (named version 0.01) and the first official, stable release in 1996 (version 1.1).
+> [!NOTE]
+> It is known for being _stable, reliable, and fully open source_.
+> 
+> It _supports many computer architecture_ (type of hardware).
+> 
+> Debian is the _largest community-run distro_ currently available.
