@@ -25,3 +25,14 @@ _**How are commands run?**_
 First, we have a **user** who wants to run a **command**. They enter the command in a **terminal**, which is then relayed to the **shell**. The core components of the **OS and kernel** translate the command for the **hardware** to perform. When the **hardware** completes the command, the kernel reads any changes or results and sends them back via the shell to the terminal for the user’s information.
 
 The terminal is a powerful way to run applications and interact with your machine.
+
+## Paths in the Linux filesystem
+The filesystem is the human-readable directory or file location `/home/me/Documents/`
+
+`a/b` indicates the file or directory named _b_ inside the directory named _b_
+
+Special paths:
+* `~` Home directory
+* `/` Root directory
+* `..` Parent of current directory
+* `.` Current directory
