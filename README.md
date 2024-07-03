@@ -4,3 +4,4 @@
 ### [Linux Distributions](notes/1-introduction-to-linux/linux-distributions.md)
 ### [Linux Architecture Overview](notes/1-introduction-to-linux/overview-linux-architecture.md)
 ### [Linux Terminal Overview](notes/1-introduction-to-linux/linux-terminal-overview.md)
+### [Creating and Eititng Text Files](notes/1-introduction-to-linux/creating-and-editing-text-files.md)
