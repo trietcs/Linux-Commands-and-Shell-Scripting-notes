@@ -46,3 +46,14 @@ Special paths:
 
 ## Tab Completion
 Many shells support a feature called **tab completion**.
+Tab completion allows you to autocomplete a command you're typing on the command line.
+
+Suppose you're in your home directory `~`, which contains the directories:
+
+* `Pictures`
+* `Videos`
+* `Documents`
+* `Downloads`
+
+> [!TIP]
+> If you type: `~ $ cd Doc` and press `Tab`, the shell will autocomplete to: `~ $ cd Documents/`
