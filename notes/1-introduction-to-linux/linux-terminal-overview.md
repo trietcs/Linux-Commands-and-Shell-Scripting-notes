@@ -36,3 +36,13 @@ Special paths:
 * `/` Root directory
 * `..` Parent of current directory
 * `.` Current directory
+
+> [!NOTE]
+> Typing and entering `ls` will display all files and directories contained within your current working directory.
+> 
+> If you know the path to a directory, you can view its contents by passing the path name as a command line argument to the `ls` command as follows: `ls [PATH TO DIRECTORY]` eg: `ls /`, `ls /bin`
+>
+> The `pwd` command prints the path name to the present working directory
+
+## Tab Completion
+Many shells support a feature called **tab completion**.
