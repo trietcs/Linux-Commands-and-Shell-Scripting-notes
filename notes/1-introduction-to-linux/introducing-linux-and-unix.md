@@ -21,12 +21,12 @@ In the 1960s, the **Unix OS** was rewritten in **C**, distinguishing itself from
 
 ### Linux features:
 * **Free and open source**
-  > It means anyone can view the source code.
+  > Linux is free and open source, which means anyone can view the source code. 
 * **Secure**
   > With so many eyes on the source code, Linux has become the most secure OS over the years.
 * **Multi-user**
   > Linux is designed to support multiple users accessing the system simultaneously.
 * **Multitasking**
-  > Running multiple jobs and applications at the same time.
+  > It supports multitasking, running multiple jobs and applications at the same time 
 * **Portability**
   > Linux has been ported to run on many different types of devices and hardware platforms from desktops to servers to appliances.
