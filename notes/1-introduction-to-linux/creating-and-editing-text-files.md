@@ -31,10 +31,17 @@ This opens a new text editor window in which you can edit the file.
 Here is what the nano app looks like:
 ![](/images/nano_1.png)
 
-
 The main area displays the text of the open file, which in this case is the source text from the nano example page.
-![](/images/nano_2.png)
 
-The cursor is currently located at the beginning of the file, but you can navigate within the text using the arrow keys, page up and down keys, or `home` and `end` keys.
-![](/images/nano_3.png)
-Any text you type is entered at the cursor. You can also delete text using the `Delete` and `Backspace` keys.
+
+The cursor is currently located at the beginning of the file, but you can navigate within the text using the arrow keys, page up and down keys, or `home` and `end` keys. Any text you type is entered at the cursor. You can also delete text using the `Delete` and `Backspace` keys. Pressing `Enter` starts a new line.
+![](/images/nano_4.png)
+
+
+At the bottom of the nano window there is a list of commands that you can use in the editor.
+![](/images/nano_5.png)
+
+To access the commands, simultaneously press `control` and the letter for the command. For example, to **Get Help**, press the `control` and `G` keys
+
+# Vim
+**Vim** is a traditional and very powerful command-line editor.
