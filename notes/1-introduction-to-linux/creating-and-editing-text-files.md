@@ -3,7 +3,7 @@ There are many editors to choose from and they can be grouped into two main cate
 * **Command-line text editors:**
   * **GNU nano**: a small and friendly modeless text editor
   * **vi**: a traditional command-line editor originally created for Unix
-  * **Vim**: a powerful mode-based command line-editor based on vi
+  * **vim**: a powerful mode-based command line-editor based on vi
 * **GUI based text editors:**
   * gedit
 * **Command-line or GUI**
@@ -43,5 +43,29 @@ At the bottom of the nano window there is a list of commands that you can use in
 
 To access the commands, simultaneously press `control` and the letter for the command. For example, to **Get Help**, press the `control` and `G` keys
 
-# Vim
+# File editing with vim
 **Vim** is a traditional and very powerful command-line editor.
+To start vim, type:
+```
+vim 
+```
+![](/images/vim_1.png)
+
+To specify a file to edit, type:
+```
+vim <filename>
+```
+
+Vim has two basic modes: **Insert mode**, where you enter text, and **Command mode**, where you do everything else.
+
+**Insert mode:**
+* Press `i` to enter Insert mode
+* Type some text
+* Press `Ecs` to exit Insert mode and switch to Command mode
+* The text is written to the buffer at the cursor location
+
+**Command mode:**
+* Enter: `:sav example.txt` to create a file and write the buffer to the file
+* Enter: `:w` to write the buffer to the file without exiting
+* Enter `:q` to quit vim session
+* Enter `:q!` to quit without saving
