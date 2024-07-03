@@ -24,3 +24,36 @@ Each Linux distro has some of the following key differences:
 > It _supports many computer architecture_ (type of hardware).
 > 
 > Debian is the _largest community-run distro_ currently available.
+
+## Linux distros: Ubuntu
+**Ubuntu** is also an early-rooted distro, with its first official release in 2004 (version 4.10)
+> [!NOTE]
+> Ubuntu is _Debian-based_.
+> 
+> Developed and managed by _Canonical_.
+> 
+> Ubuntu has _three official editions_:
+> 
+> * _Desktop_ (for PCs, laptops, workstations)
+> * _Server_ (for simple file servers or multinode clouds)
+> * _Core_ (for the Internet of Things IoT)
+
+## Linux distros: Red Hat Linux
+**Red Hat Linux**, like Debian, is a _"core"_ Linux distro, meaning that it is not derived from another Linux distro.
+> [!NOTE]
+> Red Hat is known for being _stable, reliable, and fully open source_.
+> 
+> Managed by _Red Hat_, an IBM subsidiary.
+> 
+> Today it ships as _Red Hat Enterprise Linux (RHEL)_, an edition focused entirely on enterprise customers.
+
+## Linux distros: Fedora
+**Fedora** is known as a stable operating system.
+> [!NOTE]
+> Supports many architectures.
+> 
+> Very reliable and secure.
+> 
+> Actively developed, large community
+>
+> Sponsored by Red Hat
