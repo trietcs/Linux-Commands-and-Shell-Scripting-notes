@@ -55,5 +55,9 @@ Suppose you're in your home directory `~`, which contains the directories:
 * `Documents`
 * `Downloads`
 
-> [!TIP]
+> [!NOTE]
 > If you type: `~ $ cd Doc` and press `Tab`, the shell will autocomplete to: `~ $ cd Documents/`
+
+## Command History
+> [!TIP]
+> You can navigate previous commands you've entered using the `Up Arrow` and `Down Arrow` keys.
