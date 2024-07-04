@@ -29,9 +29,23 @@ deb and RPM _formats are equicalent_. If a package is only avaiable in one forma
   alien -r <package-name>.deb
   ```
 # Updating deb-based Linux
-## Command line: apt
+## Command line tool: apt
 **apt** is a command-line tool for updating deb-based Linux systems.
 
-We use the `sudo apt update` command to find avaiable packages for your distro.
+To find avaiable packages for your distro, we use:
+```
+sudo apt update
+```
 
-To upgrade all installed packages on a system, use the `sudo apt upgrade` command.
+To upgrade all installed packages on a system, use:
+```
+sudo apt upgrade
+```
+
+If you want to only install a specific package, you can use:
+```
+sudo apt install <package_name>
+```
+
+## Command line tool: yum
+**yum** stands for _Yellowdog Update Modified_.
