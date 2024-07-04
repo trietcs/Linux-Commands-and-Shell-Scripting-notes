@@ -18,3 +18,13 @@ Both _software updates and software installation files_ for Linux OS are distrib
 * **rpm files:**
   * For **Red Hat-based** distributions such as CentOS/RHEL, Fedora, and openSUSE
   * RPM stands for _Red Hat Package Manager_
+
+deb and RPM _formats are equicalent_. If a package is only avaiable in one format, you can use **alien** to convert it:
+* RPM to deb:
+  ```
+  alien <package-name>.rpm
+  ```
+* deb to RPM:
+  ```
+  alien -r <package-name>.deb
+  ```
