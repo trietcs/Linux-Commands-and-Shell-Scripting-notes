@@ -49,3 +49,12 @@ sudo apt install <package_name>
 
 ## Command line tool: yum
 **yum** stands for _Yellowdog Update Modified_.
+To update all packages in your system, type:
+```
+sudo yum update
+```
+Installing an RPM package with yum, type:
+```
+sudo yum install <package-name>
+```
+
