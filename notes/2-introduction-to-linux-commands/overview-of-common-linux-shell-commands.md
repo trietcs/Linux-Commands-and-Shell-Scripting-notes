@@ -72,3 +72,5 @@ Networking applications include the following:
 * `ifconfig` - display or configure system network interfaces
 * `curl` - display contents of file at a URL
 * `wget` - download file from URL
+
+### trietcs
