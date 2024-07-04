@@ -10,7 +10,6 @@ A **shell** is a powerful user interface for Unix-like operating system. It can 
 * Default shell is usually **Bash**
 * Many other shells, including **sh**, **ksh**, **tcsh**, **zsh**, and **fish**
 
-
 ## Shell command applications
 Applications of shell commands include:
 * Getting information
