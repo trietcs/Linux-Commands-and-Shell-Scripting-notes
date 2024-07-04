@@ -6,3 +6,5 @@
 ### [Linux Terminal Overview](notes/1-introduction-to-linux/linux-terminal-overview.md)
 ### [Creating and Edititng Text Files](notes/1-introduction-to-linux/creating-and-editing-text-files.md)
 ### [Installing Software and Updates](notes/1-introduction-to-linux/installing-software-and-updates.md)
+## [Module 2: Introduction to Linux Commands](notes/2-introduction-to-linux-commands)
+### [Overview of Common Linux Shell Commands](notes/2-introduction-to-linux-commands/overview-of-common-linux-shell-commands.md)
