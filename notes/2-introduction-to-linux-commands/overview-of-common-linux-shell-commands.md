@@ -51,3 +51,24 @@ Common shell commands for navigating and woking with directories include:
 * `cd` - change directory
 * `rmdir` - remove directory
 
+### Printing file and string contents
+For priting file contents or strings, common commands include:
+* `cat` - print file contents
+* `more` - print file contents page-by-page
+* `head` - print first N lines of file
+* `tail` - print last N lines of file
+* `echo` - print string or variable value
+
+### Compression and archiving
+Shell commands related to file compression and archiving applications include:
+* `tar` - archive a set of files
+* `zip` - compress a set of files
+* `unzip` - extract files from a compressed zip archive
+
+### Networking
+Networking applications include the following:
+* `hostname` - print hostname
+* `ping` - send packets to URL and print response
+* `ifconfig` - display or configure system network interfaces
+* `curl` - display contents of file at a URL
+* `wget` - download file from URL
