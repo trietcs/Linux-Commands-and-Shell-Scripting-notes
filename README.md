@@ -5,3 +5,4 @@
 ### [Linux Architecture Overview](notes/1-introduction-to-linux/overview-linux-architecture.md)
 ### [Linux Terminal Overview](notes/1-introduction-to-linux/linux-terminal-overview.md)
 ### [Creating and Edititng Text Files](notes/1-introduction-to-linux/creating-and-editing-text-files.md)
+### [Installing Software and Updates](notes/1-introduction-to-linux/installing-software-and-updates.md)
