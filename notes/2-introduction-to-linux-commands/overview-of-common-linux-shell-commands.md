@@ -23,3 +23,31 @@ Applications of shell commands include:
 ### Getting information
 Some common shell commands for getting information include:
 * `whoami` - username
+* `id` - user ID and group ID
+* `uname` - operating system name
+* `ps` - running processes
+* `top` - resource usage
+* `df` - mounted file systems
+* `man` - refernce manual
+* `date` - today's date
+
+### Working with files
+Some common shell commands for working with files include:
+* `cp` - copy file
+* `mv` - change file name or path
+* `rm` - remove file
+* `touch` - create empty file, update file timestamp
+* `touch` - create empty file, update file timestamp
+* `chmod` - change/modify file permissions
+* `wc` - get count of lines, words, characters in file
+* `grep` - return lines in file matching pattern
+
+### Navigating and working with directories
+Common shell commands for navigating and woking with directories include:
+* `ls` - list files and directories
+* `find` - find files in directory tree
+* `pwd` - get present working directory
+* `mkdir` - make directory
+* `cd` - change directory
+* `rmdir` - remove directory
+
