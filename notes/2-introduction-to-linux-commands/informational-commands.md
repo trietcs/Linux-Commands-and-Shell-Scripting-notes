@@ -6,3 +6,5 @@
   > The `whoami` command takes no arguments and has no options.
 * `id` - returns the user or group ID
   > using `id` with `-u` option "`id -u`" returns the numerical ID of user. If would like the name corresponding to the numerical user ID, add the `-n` option "`id -u -n`"
+
+<img src="/images/user_information_1.png" alt="Example Image" width=300>
