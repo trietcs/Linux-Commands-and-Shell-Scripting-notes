@@ -52,3 +52,16 @@ To list all processes running on the system, regardless of which user started th
 ps -e
 ```
 <img src="/images/ps.png" alt="Example Image" height=300>
+
+## Monitoring system health and status
+`top` (table of processces) - Task manager
+> Monitor system performance and resource usage
+
+To show the top three running tasks, we use `-n` option and the number `3`:
+```
+top -n 3
+```
+<img src="/images/top.png" alt="Example Image" height=300>
+
+> [!NOTE]
+> `top` can provide many other details such as memory usage and the executable file location.
