@@ -7,7 +7,7 @@
 * `id` - returns the user or group ID
   > using `id` with `-u` option "`id -u`" returns the numerical ID of user. If would like the name corresponding to the numerical user ID, add the `-n` option "`id -u -n`"
 
-<img src="/images/user_information_1.png" alt="Example Image" width=400>
+<img src="/images/user_information_1.png" alt="Example Image" height=300>
 
 ## System information
 `uname` (Unix name) - returns OS information
@@ -25,4 +25,4 @@ To view more detailed version information, using `-v` option:
 ```
 uname -v
 ```
-<img src="/images/system_information.png" alt="Example Image" width=600>
+<img src="/images/system_information.png" alt="Example Image" height=300>
