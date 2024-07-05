@@ -8,4 +8,4 @@
 ### [Installing Software and Updates](notes/1-introduction-to-linux/installing-software-and-updates.md)
 ## [Module 2: Introduction to Linux Commands](notes/2-introduction-to-linux-commands)
 ### [Overview of Common Linux Shell Commands](notes/2-introduction-to-linux-commands/overview-of-common-linux-shell-commands.md)
-###[Informational Commands](notes/2-introduction-to-linux-commands/informational-commands.md)
+### [Informational Commands](notes/2-introduction-to-linux-commands/informational-commands.md)
