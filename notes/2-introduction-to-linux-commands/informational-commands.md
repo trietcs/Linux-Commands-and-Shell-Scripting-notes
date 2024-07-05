@@ -71,3 +71,9 @@ top -n 3
 <img src="/images/echo.png" alt="Example Image" height=300>
 > [!NOTE]
 > Additionally, you can view the value of a variable, such as our systme's `PATH` variable, by typing a `$` followed by the variable name.
+
+## Viewing the manual
+If you want to learn more about how to use a command, you can use the `man` (manual) command. 
+<img src="/images/man.png" alt="Example Image" height=300>
+> [!NOTE]
+> All default Linux commands come with a manual that you can display using `man`.
