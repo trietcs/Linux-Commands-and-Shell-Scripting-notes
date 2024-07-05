@@ -26,3 +26,19 @@ To view more detailed version information, using `-v` option:
 uname -v
 ```
 <img src="/images/system_information.png" alt="Example Image" height=300>
+
+## Displaying your disk usage
+`df` (disk free) - Shows disk usage
+> It useful in situations where you need to monitor disk usage or check the available space on a particular file system.
+
+To see all the disks mounted on your home directory, type:
+```
+df -h ~
+```
+<img src="/images/df_1.png" alt="Example Image" height=300>
+
+To view disk usage on all filesystems, type:
+```
+df -h
+```
+<img src="/images/df_2.png" alt="Example Image" height=300>
