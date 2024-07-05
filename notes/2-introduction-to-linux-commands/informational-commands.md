@@ -42,3 +42,13 @@ To view disk usage on all filesystems, type:
 df -h
 ```
 <img src="/images/df_2.png" alt="Example Image" height=300>
+
+## Displaying current running processes
+`ps` (process status) - Running processes
+> This is helpful when you need to monitor or manage processes.
+
+To list all processes running on the system, regardless of which user started them, type:
+```
+ps -e
+```
+<img src="/images/ps.png" alt="Example Image" height=300>
