@@ -65,3 +65,9 @@ top -n 3
 
 > [!NOTE]
 > `top` can provide many other details such as memory usage and the executable file location.
+
+## Printing strings and variable values
+`echo` - Display text or variables on the terminal or in a shell script.
+<img src="/images/echo.png" alt="Example Image" height=300>
+> [!NOTE]
+> Additionally, you can view the value of a variable, such as our systme's `PATH` variable, by typing a `$` followed by the variable name.
